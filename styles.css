@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  background-color: grey;
+}
+
+#dice1{
+  height: 100px;
+  width: 100px;
+}
+
+#dice2{
+  height: 100px;
+  width: 100px;
+}
